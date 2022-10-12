@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/buildupward/static/css/main.073c9b0a.css",
+    "main.js": "/buildupward/static/js/main.ae9819ff.js",
+    "static/js/787.fa4c04cf.chunk.js": "/buildupward/static/js/787.fa4c04cf.chunk.js",
+    "static/media/HeroBuilding.svg": "/buildupward/static/media/HeroBuilding.cb15492135bc974fd0f0da8b3ecbf8a1.svg",
+    "static/media/Logo.svg": "/buildupward/static/media/Logo.ba85f2d81e1da5b7779d71c6a0150d77.svg",
+    "static/media/logo.svg": "/buildupward/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Rocket.svg": "/buildupward/static/media/Rocket.8adcefac28aecff63f08e1b8f9f4db6f.svg",
+    "static/media/FindSolutionsIcon.svg": "/buildupward/static/media/FindSolutionsIcon.1faea5f3f7f026f810b65ac1db01701c.svg",
+    "static/media/Microscope.svg": "/buildupward/static/media/Microscope.5a7177e8cfa2a2e798e43e1fddde1a7f.svg",
+    "static/media/Plumbing.svg": "/buildupward/static/media/Plumbing.31c2800022bc9c043bf95c1dc7decd98.svg",
+    "static/media/MoneyIcon.svg": "/buildupward/static/media/MoneyIcon.6bb2d6fb64374357abaed6cee2557ed2.svg",
+    "static/media/GoGreenIcon.svg": "/buildupward/static/media/GoGreenIcon.8fe2a3c8afa530d38b56538af227ee49.svg",
+    "static/media/Info.svg": "/buildupward/static/media/Info.84e1e880104bae664509d97389142c00.svg",
+    "static/media/Search.svg": "/buildupward/static/media/Search.a0a2cdbc36e2966502bf5c248fbd0ca7.svg",
+    "static/media/MyBuildings.svg": "/buildupward/static/media/MyBuildings.b013940d8e0d18b9c9910f7260c3d7c5.svg",
+    "index.html": "/buildupward/index.html",
+    "static/media/FinesIcon.svg": "/buildupward/static/media/FinesIcon.098baf59b7305c81c7586473d2bd73c9.svg",
+    "static/media/Edit.svg": "/buildupward/static/media/Edit.4dd25149fd93903269c848892c8aa7c2.svg",
+    "static/media/Home.svg": "/buildupward/static/media/Home.f36e6c3bb6f1f2f38e8457c35019b12f.svg",
+    "static/media/LandingBuildingIcon.svg": "/buildupward/static/media/LandingBuildingIcon.bce2bcd79b07222dad7d3bd838680acb.svg",
+    "static/media/Plus.svg": "/buildupward/static/media/Plus.8be7732b499eff72e3358d3830aa441a.svg",
+    "main.073c9b0a.css.map": "/buildupward/static/css/main.073c9b0a.css.map",
+    "main.ae9819ff.js.map": "/buildupward/static/js/main.ae9819ff.js.map",
+    "787.fa4c04cf.chunk.js.map": "/buildupward/static/js/787.fa4c04cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ae9819ff.js"
+  ]
+}
