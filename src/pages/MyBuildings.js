@@ -73,7 +73,7 @@ const MyBuildings = ({ buildings }) => {
       <Navigation />
       <div style={{ width: "100%" }}>
         <Header>
-          <Title>My Buildings!</Title>
+          <Title>My Buildings</Title>
           <AddBuildings onClick={openModal}>
             <Img src={Plus} />
             <ButtonText>New Building</ButtonText>
