@@ -28,7 +28,7 @@ const publicPath = path.join(__dirname, "build", "index.html");
 const port = process.env.PORT || 3000;
 app.use(express.static(publicPath));
 app.get("*", (req, res) => {
-  res.sendFile(publicPath));
+  res.sendFile(publicPath);
 });
 app.listen(port, () => {
   console.log("Server is up!");
